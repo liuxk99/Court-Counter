@@ -19,6 +19,12 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
+
+References
+-------
+[ViewModels : A Simple Example. Introduction | by Lyla Fujiwara | Android Developers | Medium](https://medium.com/androiddevelopers/viewmodels-a-simple-example-ed5ac416317e) </br>
+Modify the ViewModel code and verify the function on Realme Phone(RMX3366).
+
 Support
 -------
 
