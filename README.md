@@ -6,9 +6,12 @@ Keeps track of basketball scores for two teams. Used in the Udacity Android for 
 Pre-requisites
 --------------
 
-- Android SDK v24
-- Android Build Tools v24.0.2
-- Android Support Repository v24.2.0
+- Android SDK v28
+- AndroidX
+
+Android Studio Version
+---------------
+Android Studio Chipmunk | 2021.2.1 Patch 1
 
 Getting Started
 ---------------
